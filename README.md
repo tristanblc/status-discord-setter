@@ -6,10 +6,6 @@ Program to interact with discord api in order to change user status
 
 Download .exe on release 
 
-```bash
-pip install foobar
-```
-
 ## Usage
 
 In order to use the project, download .exe and click on it
